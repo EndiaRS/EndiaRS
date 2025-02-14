@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EndiaRS
-- 👀 I’m interested in computer and science, Japan
+- 👀 I’m interested in computer and science
 - 🌱 I’m currently learning Powershell, HTML/CSS/PHP/JS, C, JAVA
 
 <!---
